@@ -1,0 +1,17 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid red; */
+    text-align: left;
+}
+
+.card {
+    border: 1px solid brown;
+    margin: 5px;
+    width: auto;
+    padding: 5px;
+}
+
+
+
+
